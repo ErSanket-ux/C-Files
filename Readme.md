@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Sanket Gund!
 
-### 💻 First-Year BCS Student | C Programming Enthusiast | Aspiring Software Developer
+### 💻 First-Year BCS Student | Programming Enthusiast | Aspiring Software Developer
 
 Welcome to my **C Programming Repository!** 🚀
 
