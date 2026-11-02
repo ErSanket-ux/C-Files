@@ -18,10 +18,11 @@ int main() {
         if (deposit_amt<=0){
             printf("Error in depositing");
         }
-         balance = balance + deposit_amt ;
-        printf("\nThe amt is successfully deposited!!");
-        printf("\n the available balance is= %d\n",balance);
-        
+        else {
+            balance = balance + deposit_amt ;
+            printf("\nThe amt is successfully deposited!!");
+            printf("\n the available balance is= %d\n",balance);
+        }
     }
 
     else if (choice == 1) {
