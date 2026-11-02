@@ -42,9 +42,13 @@ int main() {
 
     else if (choice == 4) {
         printf("\nTask exit,return 0");
+        return 0 ;
     }
     else if (choice== 3) {
         printf("\nYour current balance is %d",balance);
+    }
+    else {
+        printf("\n Incorrect Choice \n") ;
     }
     }
     return 0;
