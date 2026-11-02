@@ -100,8 +100,8 @@ Every program I write is another step forward in my development journey.
 
 I'm always interested in connecting with fellow developers, students, and tech enthusiasts.
 
-- 💼 **LinkedIn:** [Connect with me](linkedin.com/in/sanket-gund)
-- 🐙 **GitHub:** [Explore my repositories](github.com/ErSanket-ux)
+- 💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/sanket-gund)
+- 🐙 **GitHub:** [Explore my repositories](https://github.com/ErSanket-ux)
 - 📧 **Email:** sanketgund708@gmail.com
 
 ---
